@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0001-two-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
