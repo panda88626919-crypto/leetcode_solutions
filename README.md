@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0344-reverse-string) |
 | [3813-vowel-consonant-score](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/3813-vowel-consonant-score) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
