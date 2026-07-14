@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -43,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
