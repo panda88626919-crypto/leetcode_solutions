@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0344-reverse-string) |
+| [3813-vowel-consonant-score](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/3813-vowel-consonant-score) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
