@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0258-add-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0258-add-digits) |
 | [3813-vowel-consonant-score](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/3813-vowel-consonant-score) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/panda88626919-crypto/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
